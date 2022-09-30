@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "pdfjs-dist": "^2.16.105",
+    "pdfjs-dist": "^2.5.207",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
